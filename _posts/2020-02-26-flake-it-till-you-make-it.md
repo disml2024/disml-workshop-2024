@@ -14,7 +14,7 @@ author: Ronghua Zhu and Barry Simpson
 
 [2 The differences in inference capabilities between Velox and TensorFloww](https://zhuronghua.github.io/SimpleSample/assets/2_283718_86340777_Final_Technical_Report.pdf)
 
-[3 MidLLaMAI: Balancing Quantization with Pruning while compressing LLaMA 2](https://zhuronghua.github.io/SimpleSample/assets/assets/3_915432_86300351_Group_3_Project_Report.pdf)
+[3 MidLLaMAI: Balancing Quantization with Pruning while compressing LLaMA 2](https://zhuronghua.github.io/SimpleSample/assets/3_915432_86300351_Group_3_Project_Report.pdf)
 
 
 [this is a link to a section inside this page](#local-urls).
