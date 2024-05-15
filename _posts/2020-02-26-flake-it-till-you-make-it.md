@@ -36,39 +36,39 @@ author: Ronghua Zhu and Barry Simpson
 
 [13. Performance Benchmarking of Machine Learning Workloads: A Comparative Study Using Velox’s ML Functions, PyTorch, and TensorFlow](https://zhuronghua.github.io/SimpleSample/assets/13_972032_86344634_Group_13.pdf)
 
-[14. Distributed Model Training With Dynamic Gradient Compression](https://zhuronghua.github.io/SimpleSample/assets/5_773084_86360486_DISML_report.pdf)
+[14. Comparative Study of TensorFlow and PyTorch on Single and Distributed Systems](https://zhuronghua.github.io/SimpleSample/assets/14_930913_86348574_Group14.pdf)
 
-[15. Distributed Model Training With Dynamic Gradient Compression](https://zhuronghua.github.io/SimpleSample/assets/5_773084_86360486_DISML_report.pdf)
+[15. Comparative Analysis of Forward Grad and Backpropogation](https://zhuronghua.github.io/SimpleSample/assets/15_971535_86361520_Group15_project_report-1.pdf)
 
-[16. Distributed Model Training With Dynamic Gradient Compression](https://zhuronghua.github.io/SimpleSample/assets/5_773084_86360486_DISML_report.pdf)
+[16. Benchmarking image classification models using parallelisation techniques](https://zhuronghua.github.io/SimpleSample/assets/16_973994_86354720_CSE598___DISML___Project_Technical_Report.pdf)
 
-[17. Distributed Model Training With Dynamic Gradient Compression](https://zhuronghua.github.io/SimpleSample/assets/5_773084_86360486_DISML_report.pdf)
+[17. A Comparative Analysis of Deep Learning Frameworks for Music Recommendation Systems](https://zhuronghua.github.io/SimpleSample/assets/17_951230_86353382_CSE_598_Project_Group17_Report.pdf)
 
-[18. Distributed Model Training With Dynamic Gradient Compression](https://zhuronghua.github.io/SimpleSample/assets/5_773084_86360486_DISML_report.pdf)
+[18. Accelerating Decision Tree Training on the HIGGS Dataset](https://zhuronghua.github.io/SimpleSample/assets/18_912405_86350901_T18_DISML_Technical_Report.pdf)
 
-[19. Distributed Model Training With Dynamic Gradient Compression](https://zhuronghua.github.io/SimpleSample/assets/5_773084_86360486_DISML_report.pdf)
+[19. A Technical Report on Performance analysis of various datasets for Image Captioning on PyTorch and TensorFlow](https://zhuronghua.github.io/SimpleSample/assets/19_965216_86353831_Group_19.pdf)
 
-[20. Distributed Model Training With Dynamic Gradient Compression](https://zhuronghua.github.io/SimpleSample/assets/5_773084_86360486_DISML_report.pdf)
+[20. A Comparison of Different Deep Learning Frameworks in a Standalone and Distributed Sense](https://zhuronghua.github.io/SimpleSample/assets/20_972314_86354221_DISML.pdf)
 
-[21. Distributed Model Training With Dynamic Gradient Compression](https://zhuronghua.github.io/SimpleSample/assets/5_773084_86360486_DISML_report.pdf)
+[21. Implementation of Model Compression Techniques on Deep Neural Networks](https://zhuronghua.github.io/SimpleSample/assets/21_409384_86356321_CSE598_DISML_G21.pdf)
 
-[22. Distributed Model Training With Dynamic Gradient Compression](https://zhuronghua.github.io/SimpleSample/assets/5_773084_86360486_DISML_report.pdf)
+[22. Data Intensive Systems for Machine Learning](https://zhuronghua.github.io/SimpleSample/assets/22_765547_86352344_DISML_Project.pdf)
 
-[23. Distributed Model Training With Dynamic Gradient Compression](https://zhuronghua.github.io/SimpleSample/assets/5_773084_86360486_DISML_report.pdf)
+[23.Performance Analysis of Distributed Training Frameworks](https://zhuronghua.github.io/SimpleSample/assets/23_791697_86355224_DISML_23.pdf)
 
-[24. Distributed Model Training With Dynamic Gradient Compression](https://zhuronghua.github.io/SimpleSample/assets/5_773084_86360486_DISML_report.pdf)
+[24. A Comparative Analysis of Distributed Training Strategies](https://zhuronghua.github.io/SimpleSample/assets/24_768521_86352734_DISML_Project_Report.pdf)
 
-[25. Distributed Model Training With Dynamic Gradient Compression](https://zhuronghua.github.io/SimpleSample/assets/5_773084_86360486_DISML_report.pdf)
+[25. Comparison of Cardinality Estimation Techniques Utilizing Machine Learning](https://zhuronghua.github.io/SimpleSample/assets/25_921238_86336405_DISML_Report.pdf)
 
-[26. Distributed Model Training With Dynamic Gradient Compression](https://zhuronghua.github.io/SimpleSample/assets/5_773084_86360486_DISML_report.pdf)
+[26. Comparative Analysis of Distributed Machine Learning Workloads using Velox, PyTorch, and TensorFlow](https://zhuronghua.github.io/SimpleSample/assets/26_972063_86350756_group26_finalreport.pdf)
 
-[27. Distributed Model Training With Dynamic Gradient Compression](https://zhuronghua.github.io/SimpleSample/assets/5_773084_86360486_DISML_report.pdf)
+[27.VeRA: VectorDB-based Retrieval Augmentation](https://zhuronghua.github.io/SimpleSample/assets/27_971522_86347991_VeRA.pdf)
 
-[28. Distributed Model Training With Dynamic Gradient Compression](https://zhuronghua.github.io/SimpleSample/assets/5_773084_86360486_DISML_report.pdf)
+[28. CSE 598: Data-Intensive System for Machine Learning](https://zhuronghua.github.io/SimpleSample/assets/28_770701_86346130.pdf)
 
-[29. Distributed Model Training With Dynamic Gradient Compression](https://zhuronghua.github.io/SimpleSample/assets/5_773084_86360486_DISML_report.pdf)
+[29. Privacy-Preserving Log Analysis for Machine Learning Applications](https://zhuronghua.github.io/SimpleSample/assets/29_853095_86322447_Technical Report_ CSE 598.pdf)
 
-[30. Distributed Model Training With Dynamic Gradient Compression](https://zhuronghua.github.io/SimpleSample/assets/5_773084_86360486_DISML_report.pdf)
+[30. Comparative analysis of Velox, PyTorch, and TensorFlow on ResNet workload](https://zhuronghua.github.io/SimpleSample/assets/30_922879_86343640_Team_30_Autobots_Technical_Report.pdf)
 
 [31. Distributed Model Training With Dynamic Gradient Compression](https://zhuronghua.github.io/SimpleSample/assets/5_773084_86360486_DISML_report.pdf)
 
