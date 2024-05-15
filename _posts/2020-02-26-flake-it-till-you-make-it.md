@@ -18,7 +18,7 @@ author: Ronghua Zhu and Barry Simpson
 
 [4. Comparison & study of Distributed Deep Learning Training Techniques](https://zhuronghua.github.io/SimpleSample/assets/4_757069_86332872_Group4-Report.pdf)
 
-[5. Distributed Model Training With Dynamic Gradient Compression](https://zhuronghua.github.io/SimpleSample/assets/5_773084_86360486_DISML_report (2).pdf)
+[5. Distributed Model Training With Dynamic Gradient Compression](https://zhuronghua.github.io/SimpleSample/assets/5_773084_86360486_DISML_report.pdf)
 
 [6. Model compression for Video Understanding models to enable Video search on resource-constrained devices](https://zhuronghua.github.io/SimpleSample/assets/6_978291_86361703_Spring23_598Final_Proj_Report.pdf)
 
