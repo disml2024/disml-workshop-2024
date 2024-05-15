@@ -13,6 +13,9 @@ author: Ronghua Zhu and Barry Simpson
 
 [1 Performance Evaluation of ML Workloads A Comparative Study between Velox and PyTorch/TensorFlow](https://zhuronghua.github.io/SimpleSample/assets/1_156778_86344469_CSE598_Group1_Technical_Report.pdf)
 
+[2 The differences in inference capabilities between Velox and TensorFloww](https://zhuronghua.github.io/SimpleSample/assets/2_283718_86340777_Final Technical Report.pdf)
+
+
 [this is a link to a section inside this page](#local-urls).
 
 Here's a table:
