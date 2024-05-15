@@ -66,93 +66,17 @@ author: Ronghua Zhu and Barry Simpson
 
 [28. CSE 598: Data-Intensive System for Machine Learning](https://zhuronghua.github.io/SimpleSample/assets/28_770701_86346130.pdf)
 
-[29. Privacy-Preserving Log Analysis for Machine Learning Applications](https://zhuronghua.github.io/SimpleSample/assets/29_853095_86322447_Technical Report_ CSE 598.pdf)
+[29. Privacy-Preserving Log Analysis for Machine Learning Applications](https://zhuronghua.github.io/SimpleSample/assets/29_853095_86322447_Technical Report.pdf)
 
 [30. Comparative analysis of Velox, PyTorch, and TensorFlow on ResNet workload](https://zhuronghua.github.io/SimpleSample/assets/30_922879_86343640_Team_30_Autobots_Technical_Report.pdf)
 
-[31. Distributed Model Training With Dynamic Gradient Compression](https://zhuronghua.github.io/SimpleSample/assets/5_773084_86360486_DISML_report.pdf)
+[31. Comparison of Deep -Q Network for Reinforcement Learning using Multi-stage Frameworks](https://zhuronghua.github.io/SimpleSample/assets/31_744016_86340590_Team_31_Technical_Report.pdf)
 
-[32. Distributed Model Training With Dynamic Gradient Compression](https://zhuronghua.github.io/SimpleSample/assets/5_773084_86360486_DISML_report.pdf)
+[32. Benchmarking Large Language Model Inference](https://zhuronghua.github.io/SimpleSample/assets/32_919190_86345268_Data_Intensive_Systems_Final_Report.pdf)
 
-[33. Distributed Model Training With Dynamic Gradient Compression](https://zhuronghua.github.io/SimpleSample/assets/5_773084_86360486_DISML_report.pdf)
+[33. Recommending with Speed: Comparative Study of PyVelox, PyTorch, and TensorFlow frameworks and DeepSpeed and Gpipe for training optimizaitons](https://zhuronghua.github.io/SimpleSample/assets/33_971549_86350344_CSE598_DIML_Technical_Report.pdf)
 
-[34. Distributed Model Training With Dynamic Gradient Compression](https://zhuronghua.github.io/SimpleSample/assets/5_773084_86360486_DISML_report.pdf)
+[34. Implementation and Comparative Analysis of AutoML Systems for Efficient Model Selection and Hyperparameter Tuning](https://zhuronghua.github.io/SimpleSample/assets/34_903882_86331175_TechnicalReport_Group34.pdf)
 
-[35. Distributed Model Training With Dynamic Gradient Compression](https://zhuronghua.github.io/SimpleSample/assets/5_773084_86360486_DISML_report.pdf)
+[35. LLM Performance Optimized by DeepSpeed](https://zhuronghua.github.io/SimpleSample/assets/35_759726_86355580_DISML_Final_report_MLIntense.pdf)
 
-[this is a link to a section inside this page](#local-urls).
-
-Here's a table:
-
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
-
-You can use [MathJax](https://www.mathjax.org/) to write LaTeX expressions. For example:
-When \\(a \ne 0\\), there are two solutions to \\(ax^2 + bx + c = 0\\) and they are $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
-
-How about a yummy crepe?
-
-![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg)
-
-It can also be centered!
-
-![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg){: .mx-auto.d-block :}
-
-Here's a code chunk:
-
-~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-~~~
-
-And here is the same code with syntax highlighting:
-
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
-
-And here is the same code yet again but with line numbers:
-
-{% highlight javascript linenos %}
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-{% endhighlight %}
-
-## Boxes
-You can add notification, warning and error boxes like this:
-
-### Notification
-
-{: .box-note}
-**Note:** This is a notification box.
-
-### Warning
-
-{: .box-warning}
-**Warning:** This is a warning box.
-
-### Error
-
-{: .box-error}
-**Error:** This is an error box.
-
-## Local URLs in project sites {#local-urls}
-
-When hosting a *project site* on GitHub Pages (for example, `https://USERNAME.github.io/MyProject`), URLs that begin with `/` and refer to local files may not work correctly due to how the root URL (`/`) is interpreted by GitHub Pages. You can read more about it [in the FAQ](https://beautifuljekyll.com/faq/#links-in-project-page). To demonstrate the issue, the following local image will be broken **if your site is a project site:**
-
-![Crepe](/assets/img/crepe.jpg)
-
-If the above image is broken, then you'll need to follow the instructions [in the FAQ](https://beautifuljekyll.com/faq/#links-in-project-page). Here is proof that it can be fixed:
-
-![Crepe]({{ '/assets/img/crepe.jpg' | relative_url }})
