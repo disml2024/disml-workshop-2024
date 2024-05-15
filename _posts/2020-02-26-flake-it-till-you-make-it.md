@@ -66,7 +66,7 @@ author: Ronghua Zhu and Barry Simpson
 
 [28. CSE 598: Data-Intensive System for Machine Learning](https://zhuronghua.github.io/SimpleSample/assets/28_770701_86346130.pdf)
 
-[29. Privacy-Preserving Log Analysis for Machine Learning Applications](https://zhuronghua.github.io/SimpleSample/assets/29_853095_86322447_Technical Report.pdf)
+[29. Privacy-Preserving Log Analysis for Machine Learning Applications](https://zhuronghua.github.io/SimpleSample/assets/29_853095_86322447.pdf)
 
 [30. Comparative analysis of Velox, PyTorch, and TensorFlow on ResNet workload](https://zhuronghua.github.io/SimpleSample/assets/30_922879_86343640_Team_30_Autobots_Technical_Report.pdf)
 
