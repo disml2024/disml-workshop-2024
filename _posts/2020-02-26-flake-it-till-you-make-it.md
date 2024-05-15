@@ -11,7 +11,9 @@ author: Ronghua Zhu and Barry Simpson
 
 ## Here is a secondary heading
 
-[This is a link to a different site](https://zhuronghua.github.io/SimpleSample/) and [this is a link to a section inside this page](#local-urls).
+[1 Performance Evaluation of ML Workloads A Comparative Study between Velox and PyTorch/TensorFlow](https://zhuronghua.github.io/SimpleSample/assets/1_156778_86344469_CSE598_Group1_Technical_Report.pdf)
+
+[this is a link to a section inside this page](#local-urls).
 
 Here's a table:
 
