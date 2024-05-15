@@ -32,7 +32,7 @@ author: Ronghua Zhu and Barry Simpson
 
 [11. Comparison of ML Workloads in Velox, Tensorflow and Pytorch](https://zhuronghua.github.io/SimpleSample/assets/11_861230_86352402_Technical_Report.pdf)
 
-[12. CSE 598 - Data Intensive Systems for Machine Learning Leaving Backpropagation Behind: Forward Gradients for Distributed Private Learning](https://zhuronghua.github.io/SimpleSample/assets/assets/12_972003_86359328_CSE_598_Group_12.pdf.pdf)
+[12. CSE 598 - Data Intensive Systems for Machine Learning Leaving Backpropagation Behind: Forward Gradients for Distributed Private Learning](https://zhuronghua.github.io/SimpleSample/assets/12_972003_86359328_CSE_598_Group_12.pdf)
 
 [13. Performance Benchmarking of Machine Learning Workloads: A Comparative Study Using Velox’s ML Functions, PyTorch, and TensorFlow](https://zhuronghua.github.io/SimpleSample/assets/13_972032_86344634_Group_13.pdf)
 
