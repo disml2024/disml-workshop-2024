@@ -12,13 +12,13 @@ author: Ronghua Zhu and Barry Simpson
 
 [1. Performance Evaluation of ML Workloads A Comparative Study between Velox and PyTorch/TensorFlow  -- SPOTLIGHT PAPER](https://zhuronghua.github.io/SimpleSample/assets/1_156778_86344469_CSE598_Group1_Technical_Report.pdf)
 
-[2. The differences in inference capabilities between Velox and TensorFloww](https://zhuronghua.github.io/SimpleSample/assets/2_283718_86340777_Final_Technical_Report.pdf)
+[2. The differences in inference capabilities between Velox and TensorFloww  -- SPOTLIGHT PAPER](https://zhuronghua.github.io/SimpleSample/assets/2_283718_86340777_Final_Technical_Report.pdf)
 
-[3. MidLLaMAI: Balancing Quantization with Pruning while compressing LLaMA 2](https://zhuronghua.github.io/SimpleSample/assets/3_915432_86300351_Group_3_Project_Report.pdf)
+[3. MidLLaMAI: Balancing Quantization with Pruning while compressing LLaMA 2  -- SPOTLIGHT PAPER](https://zhuronghua.github.io/SimpleSample/assets/3_915432_86300351_Group_3_Project_Report.pdf)
 
 [4. Comparison & study of Distributed Deep Learning Training Techniques](https://zhuronghua.github.io/SimpleSample/assets/4_757069_86332872_Group4-Report.pdf)
 
-[5. Distributed Model Training With Dynamic Gradient Compression](https://zhuronghua.github.io/SimpleSample/assets/5_773084_86360486_DISML_report.pdf)
+[5. Distributed Model Training With Dynamic Gradient Compression  -- SPOTLIGHT PAPER](https://zhuronghua.github.io/SimpleSample/assets/5_773084_86360486_DISML_report.pdf)
 
 [6. Model compression for Video Understanding models to enable Video search on resource-constrained devices](https://zhuronghua.github.io/SimpleSample/assets/6_978291_86361703_Spring23_598Final_Proj_Report.pdf)
 
@@ -62,7 +62,7 @@ author: Ronghua Zhu and Barry Simpson
 
 [26. Comparative Analysis of Distributed Machine Learning Workloads using Velox, PyTorch, and TensorFlow](https://zhuronghua.github.io/SimpleSample/assets/26_972063_86350756_group26_finalreport.pdf)
 
-[27.VeRA: VectorDB-based Retrieval Augmentation](https://zhuronghua.github.io/SimpleSample/assets/27_971522_86347991_VeRA.pdf)
+[27.VeRA: VectorDB-based Retrieval Augmentation  -- SPOTLIGHT PAPER](https://zhuronghua.github.io/SimpleSample/assets/27_971522_86347991_VeRA.pdf)
 
 [28. CSE 598: Data-Intensive System for Machine Learning](https://zhuronghua.github.io/SimpleSample/assets/28_770701_86346130.pdf)
 
@@ -72,11 +72,11 @@ author: Ronghua Zhu and Barry Simpson
 
 [31. Comparison of Deep -Q Network for Reinforcement Learning using Multi-stage Frameworks](https://zhuronghua.github.io/SimpleSample/assets/31_744016_86340590_Team_31_Technical_Report.pdf)
 
-[32. Benchmarking Large Language Model Inference](https://zhuronghua.github.io/SimpleSample/assets/32_919190_86345268_Data_Intensive_Systems_Final_Report.pdf)
+[32. Benchmarking Large Language Model Inference  -- SPOTLIGHT PAPER](https://zhuronghua.github.io/SimpleSample/assets/32_919190_86345268_Data_Intensive_Systems_Final_Report.pdf)
 
 [33. Recommending with Speed: Comparative Study of PyVelox, PyTorch, and TensorFlow frameworks and DeepSpeed and Gpipe for training optimizaitons](https://zhuronghua.github.io/SimpleSample/assets/33_971549_86350344_CSE598_DIML_Technical_Report.pdf)
 
-[34. Implementation and Comparative Analysis of AutoML Systems for Efficient Model Selection and Hyperparameter Tuning](https://zhuronghua.github.io/SimpleSample/assets/34_903882_86331175_TechnicalReport_Group34.pdf)
+[34. Implementation and Comparative Analysis of AutoML Systems for Efficient Model Selection and Hyperparameter Tuning  -- SPOTLIGHT PAPER](https://zhuronghua.github.io/SimpleSample/assets/34_903882_86331175_TechnicalReport_Group34.pdf)
 
-[35. LLM Performance Optimized by DeepSpeed](https://zhuronghua.github.io/SimpleSample/assets/35_759726_86355580_DISML_Final_report_MLIntense.pdf)
+[35. LLM Performance Optimized by DeepSpeed  -- SPOTLIGHT PAPER](https://zhuronghua.github.io/SimpleSample/assets/35_759726_86355580_DISML_Final_report_MLIntense.pdf)
 
