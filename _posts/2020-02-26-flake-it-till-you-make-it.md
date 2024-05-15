@@ -9,11 +9,12 @@ tags: [books, test]
 author: Ronghua Zhu and Barry Simpson
 ---
 
-## Here is a secondary heading
 
-[1 Performance Evaluation of ML Workloads A Comparative Study between Velox and PyTorch/TensorFlow](https://zhuronghua.github.io/SimpleSample/assets/1_156778_86344469_CSE598_Group1_Technical_Report.pdf)
+[1 Performance Evaluation of ML Workloads A Comparative Study between Velox and PyTorch/TensorFlow  -- SPOTLIGHT PAPER](https://zhuronghua.github.io/SimpleSample/assets/1_156778_86344469_CSE598_Group1_Technical_Report.pdf)
 
 [2 The differences in inference capabilities between Velox and TensorFloww](https://zhuronghua.github.io/SimpleSample/assets/2_283718_86340777_Final_Technical_Report.pdf)
+
+[3 MidLLaMAI: Balancing Quantization with Pruning while compressing LLaMA 2](https://zhuronghua.github.io/SimpleSample/assets/assets/3_915432_86300351_Group_3_Project_Report.pdf)
 
 
 [this is a link to a section inside this page](#local-urls).
