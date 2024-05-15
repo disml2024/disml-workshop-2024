@@ -10,11 +10,17 @@ author: Ronghua Zhu and Barry Simpson
 ---
 
 
-[1 Performance Evaluation of ML Workloads A Comparative Study between Velox and PyTorch/TensorFlow  -- SPOTLIGHT PAPER](https://zhuronghua.github.io/SimpleSample/assets/1_156778_86344469_CSE598_Group1_Technical_Report.pdf)
+[1. Performance Evaluation of ML Workloads A Comparative Study between Velox and PyTorch/TensorFlow  -- SPOTLIGHT PAPER](https://zhuronghua.github.io/SimpleSample/assets/1_156778_86344469_CSE598_Group1_Technical_Report.pdf)
 
-[2 The differences in inference capabilities between Velox and TensorFloww](https://zhuronghua.github.io/SimpleSample/assets/2_283718_86340777_Final_Technical_Report.pdf)
+[2. The differences in inference capabilities between Velox and TensorFloww](https://zhuronghua.github.io/SimpleSample/assets/2_283718_86340777_Final_Technical_Report.pdf)
 
-[3 MidLLaMAI: Balancing Quantization with Pruning while compressing LLaMA 2](https://zhuronghua.github.io/SimpleSample/assets/3_915432_86300351_Group_3_Project_Report.pdf)
+[3. MidLLaMAI: Balancing Quantization with Pruning while compressing LLaMA 2](https://zhuronghua.github.io/SimpleSample/assets/3_915432_86300351_Group_3_Project_Report.pdf)
+
+[4. Comparison & study of Distributed Deep Learning Training Techniques](https://zhuronghua.github.io/SimpleSample/assets/4_757069_86332872_Group4-Report.pdf)
+
+[5. Distributed Model Training With Dynamic Gradient Compression](https://zhuronghua.github.io/SimpleSample/assets/5_773084_86360486_DISML_report (2).pdf)
+
+[6. Model compression for Video Understanding models to enable Video search on resource-constrained devices](https://zhuronghua.github.io/SimpleSample/assets/6_978291_86361703_Spring23_598Final_Proj_Report.pdf)
 
 
 [this is a link to a section inside this page](#local-urls).
