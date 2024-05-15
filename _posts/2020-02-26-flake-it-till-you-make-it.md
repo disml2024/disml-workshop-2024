@@ -22,6 +22,63 @@ author: Ronghua Zhu and Barry Simpson
 
 [6. Model compression for Video Understanding models to enable Video search on resource-constrained devices](https://zhuronghua.github.io/SimpleSample/assets/6_978291_86361703_Spring23_598Final_Proj_Report.pdf)
 
+[7. Benchmarking Data Parallel vs Model Parallel Training with PyTorch and VeloxML](https://zhuronghua.github.io/SimpleSample/assets/7_931975_86327769_DISML_Project_Report___Group_7-1.pdf)
+
+[8. Benchmarking Distributed Machine Learning Systems with Large Language Models on Human vs. LLM Text Corpus](https://zhuronghua.github.io/SimpleSample/assets/8_945276_86359389_Group8_DISML_Project_Report.pdf)
+
+[9. Comparative Analysis of Standard Image Classification Model Training Techniques with FSDP](https://zhuronghua.github.io/SimpleSample/assets/9_725921_86306815_CSE598_Final_Project_Report_Group9.pdf)
+
+[10. Comparative Analysis of Image Classification Performance: PyTorch and TensorFlow](https://zhuronghua.github.io/SimpleSample/assets/10_951758_86343457_Comparative_Analysis_of_Image_Classification_Performance.pdf)
+
+[11. Comparison of ML Workloads in Velox, Tensorflow and Pytorch](https://zhuronghua.github.io/SimpleSample/assets/11_861230_86352402_Technical_Report.pdf)
+
+[12. CSE 598 - Data Intensive Systems for Machine Learning Leaving Backpropagation Behind: Forward Gradients for Distributed Private Learning](https://zhuronghua.github.io/SimpleSample/assets/assets/12_972003_86359328_CSE_598_Group_12.pdf.pdf)
+
+[13. Performance Benchmarking of Machine Learning Workloads: A Comparative Study Using Velox’s ML Functions, PyTorch, and TensorFlow](https://zhuronghua.github.io/SimpleSample/assets/13_972032_86344634_Group_13.pdf)
+
+[14. Distributed Model Training With Dynamic Gradient Compression](https://zhuronghua.github.io/SimpleSample/assets/5_773084_86360486_DISML_report.pdf)
+
+[15. Distributed Model Training With Dynamic Gradient Compression](https://zhuronghua.github.io/SimpleSample/assets/5_773084_86360486_DISML_report.pdf)
+
+[16. Distributed Model Training With Dynamic Gradient Compression](https://zhuronghua.github.io/SimpleSample/assets/5_773084_86360486_DISML_report.pdf)
+
+[17. Distributed Model Training With Dynamic Gradient Compression](https://zhuronghua.github.io/SimpleSample/assets/5_773084_86360486_DISML_report.pdf)
+
+[18. Distributed Model Training With Dynamic Gradient Compression](https://zhuronghua.github.io/SimpleSample/assets/5_773084_86360486_DISML_report.pdf)
+
+[19. Distributed Model Training With Dynamic Gradient Compression](https://zhuronghua.github.io/SimpleSample/assets/5_773084_86360486_DISML_report.pdf)
+
+[20. Distributed Model Training With Dynamic Gradient Compression](https://zhuronghua.github.io/SimpleSample/assets/5_773084_86360486_DISML_report.pdf)
+
+[21. Distributed Model Training With Dynamic Gradient Compression](https://zhuronghua.github.io/SimpleSample/assets/5_773084_86360486_DISML_report.pdf)
+
+[22. Distributed Model Training With Dynamic Gradient Compression](https://zhuronghua.github.io/SimpleSample/assets/5_773084_86360486_DISML_report.pdf)
+
+[23. Distributed Model Training With Dynamic Gradient Compression](https://zhuronghua.github.io/SimpleSample/assets/5_773084_86360486_DISML_report.pdf)
+
+[24. Distributed Model Training With Dynamic Gradient Compression](https://zhuronghua.github.io/SimpleSample/assets/5_773084_86360486_DISML_report.pdf)
+
+[25. Distributed Model Training With Dynamic Gradient Compression](https://zhuronghua.github.io/SimpleSample/assets/5_773084_86360486_DISML_report.pdf)
+
+[26. Distributed Model Training With Dynamic Gradient Compression](https://zhuronghua.github.io/SimpleSample/assets/5_773084_86360486_DISML_report.pdf)
+
+[27. Distributed Model Training With Dynamic Gradient Compression](https://zhuronghua.github.io/SimpleSample/assets/5_773084_86360486_DISML_report.pdf)
+
+[28. Distributed Model Training With Dynamic Gradient Compression](https://zhuronghua.github.io/SimpleSample/assets/5_773084_86360486_DISML_report.pdf)
+
+[29. Distributed Model Training With Dynamic Gradient Compression](https://zhuronghua.github.io/SimpleSample/assets/5_773084_86360486_DISML_report.pdf)
+
+[30. Distributed Model Training With Dynamic Gradient Compression](https://zhuronghua.github.io/SimpleSample/assets/5_773084_86360486_DISML_report.pdf)
+
+[31. Distributed Model Training With Dynamic Gradient Compression](https://zhuronghua.github.io/SimpleSample/assets/5_773084_86360486_DISML_report.pdf)
+
+[32. Distributed Model Training With Dynamic Gradient Compression](https://zhuronghua.github.io/SimpleSample/assets/5_773084_86360486_DISML_report.pdf)
+
+[33. Distributed Model Training With Dynamic Gradient Compression](https://zhuronghua.github.io/SimpleSample/assets/5_773084_86360486_DISML_report.pdf)
+
+[34. Distributed Model Training With Dynamic Gradient Compression](https://zhuronghua.github.io/SimpleSample/assets/5_773084_86360486_DISML_report.pdf)
+
+[35. Distributed Model Training With Dynamic Gradient Compression](https://zhuronghua.github.io/SimpleSample/assets/5_773084_86360486_DISML_report.pdf)
 
 [this is a link to a section inside this page](#local-urls).
 
