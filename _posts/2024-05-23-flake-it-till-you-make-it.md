@@ -1,12 +1,7 @@
 ---
 layout: post
-title: Research Papers
-subtitle: Research projects lead by Professor Zou
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
-tags:
-author: Ronghua Zhu and Barry Simpson
+title: DISML 2024 Online Proceeding
+subtitle: Research Papers
 ---
 
 
