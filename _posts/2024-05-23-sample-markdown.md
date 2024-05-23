@@ -3,7 +3,7 @@ layout: post
 title: Introduction
 subtitle: DISML2024
 gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
+gh-badge: []
 tags: [workshop]
 comments: false
 ---
