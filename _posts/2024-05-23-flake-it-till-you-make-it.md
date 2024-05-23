@@ -5,7 +5,7 @@ subtitle: Research projects lead by Professor Zou
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
-tags: [books, test]
+tags:
 author: Ronghua Zhu and Barry Simpson
 ---
 
